@@ -2,7 +2,7 @@
 This program is written in python and it creates a Discord Bot that allows you to view the standings of 14 major soccer leagues and seasons 2013-present. This was done by webscraping the ESPN website using the BeautifulSoup4 library.
 
 # Example output
-
+![](images/standings.png)
 # How to use the chatroom:
 
 1. Open chatserver file and compile chatserver.cpp by typing "make"
