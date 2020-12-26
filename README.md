@@ -9,5 +9,5 @@ This program is written in python and it creates a Discord Bot that allows you t
 ![](images/addtoserver.png)
 
 2. Once the bot is invited to the server it is ready to be used. The bot has 2 commands, !help and !standings [league] [season]. Here is what the help command looks like:
-![](images/help.png). It displays all leagues and seasons available to view. Above I have already posted an example of what the standings look like.
+![](images/help.png) It displays all leagues and seasons available to view. Above I have already posted an example of what the standings look like.
 
